@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>3a681cbe-c302-4403-ac4f-c6f9cf966223</TargetProject>
+    <FriendlyName>ExpressApp1</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>c:\users\donal\onedrive\documents\visual studio 2015\Projects\ExpressApp1\ExpressApp1_20160324.vspx</Filename>
+    </Report>
+    <Report>
+      <Filename>C:\Users\Donal\AppData\Local\Temp\ExpressApp1_20160324(1).vspx</Filename>
+    </Report>
+    <Report>
+      <Filename>C:\Users\Donal\AppData\Local\Temp\ExpressApp1_20160324(2).vspx</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
